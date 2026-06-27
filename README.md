@@ -1,19 +1,23 @@
- ## Hi, I'm Ellie 👋                                                                    
-                                                                                         
-  **Product Manager → AI Coder** 
-  · 
-  Excited about what AI makes possible for me to build and automate 
-<!--
-**ellie-579/ellie-579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Ellie 👋
 
-Here are some ideas to get you started:
+**Product Manager → AI Coder** · Building real things with real AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://linkedin.com/in/ellie-bleiberg) · [elliebleiberg.com](https://elliebleiberg.com)
+
+---
+
+**Stack:** React · JavaScript · HTML · Claude Code · Google AI Studio
+
+---
+
+### Projects
+
+**Agents & Automation**
+- [ai-chief-of-staff](https://github.com/ellie-579/ai-chief-of-staff) — AI agent that briefs me every morning · 61+ days running
+
+**Travel & Consumer**
+- [wandergenius](https://github.com/ellie-579/wandergenius) — AI-powered travel planning
+
+---
+
+*Former PM. Current builder.*
