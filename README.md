@@ -1,5 +1,3 @@
-## Hi there 👋
-
  ## Hi, I'm Ellie 👋                                                                    
                                                                                          
   **Product Manager → AI Coder** · Building real things with real AI                     
