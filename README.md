@@ -1,6 +1,7 @@
  ## Hi, I'm Ellie 👋                                                                    
                                                                                          
-  **Product Manager → AI Coder** · 
+  **Product Manager → AI Coder** 
+  · 
   Excited about what AI makes possible for me to build and automate 
 <!--
 **ellie-579/ellie-579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
