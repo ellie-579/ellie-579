@@ -26,15 +26,7 @@
                   
   ---                                                                                    
                   
-  ### Projects
-
-  **Agents & Automation**
-  - [ai-chief-of-staff](https://github.com/ellie-579/ai-chief-of-staff) — AI agent that
-  briefs me every morning · 61+ days running                                             
-   
-  **Travel & Consumer**                                                                  
-  - [wandergenius](https://github.com/ellie-579/wandergenius) — AI-powered travel
-  planning                                                                               
+                                                                           
    
   ---                                                                                    
                   
